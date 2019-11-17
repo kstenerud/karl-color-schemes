@@ -14,6 +14,10 @@ Themes
 
 A high contrast color scheme for light themes.
 
+### Karl Dark
+
+A high contrast color scheme for dark themes.
+
 
 
 Installation
